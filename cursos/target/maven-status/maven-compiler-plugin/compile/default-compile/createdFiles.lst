@@ -1,0 +1,7 @@
+gt/edu/umg/ingenieria/cursos/model/Curso.class
+gt/edu/umg/ingenieria/cursos/dao/CursoRepository.class
+gt/edu/umg/ingenieria/cursos/dao/GeneroRepository.class
+gt/edu/umg/ingenieria/cursos/controller/CursoController.class
+gt/edu/umg/ingenieria/cursos/CursosApplication.class
+gt/edu/umg/ingenieria/cursos/controller/GeneroController.class
+gt/edu/umg/ingenieria/cursos/model/Genero.class
